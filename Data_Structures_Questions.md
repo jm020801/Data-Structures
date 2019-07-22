@@ -3,18 +3,24 @@ Answer the following questions for each of the data structures you implemented a
 ## Queue
 
 1. What is the runtime complexity of `enqueue`?
+   Linked List solution: 0(c)
+   Array Solution 0(c)
 
 2. What is the runtime complexity of `dequeue`?
+   Linked List solution: O(c)
+   Array solution: O(n), since with the removal of the first item in the list everything else now has to be shifted up by one index
 
 3. What is the runtime complexity of `len`?
+   Linked List solution: O(c)
+   Array solution: O(c)
 
 ## Binary Search Tree
 
-1. What is the runtime complexity of `insert`? 
+1. What is the runtime complexity of `insert`?
 
 2. What is the runtime complexity of `contains`?
 
-3. What is the runtime complexity of `get_max`? 
+3. What is the runtime complexity of `get_max`?
 
 ## Heap
 
